@@ -78,16 +78,18 @@ text-align: center;
 }
 
 .input-section input{
-margin: 50px;
+margin: 30px;
 padding: 10px;
 }
 
 #USDinput{
+    width: 50%;
 margin: 1%;
 
 }
 
 #INRinput{
+    width: 50%;
 margin: 1%;
 }
 
